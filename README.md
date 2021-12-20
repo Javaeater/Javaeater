@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Javaeater
-- 👀 I’m interested in Snakes
-- 🌱 {'I’m currently learning': true, 'School' : 'University of Colorado Boulder', 'Degrees: [Computer Science, Psychology]} 
+- 👀 def ImInterestedIn:
+-       return('Changing the way we use technology')
+- 🌱 {'I’m currently learning': true, 'School' : 'University of Colorado Boulder', 'Degrees: ['Computer Science', 'Psychology']} 
 - 💞️ I’m looking to collaborate on Python, C++, C or Java projects 
 - 📫 How to reach me cesserjackson@gmail.com
 
