@@ -1,6 +1,6 @@
 - 👋 Class @Javaeater {
 - 👀 function ImInterestedIn: {return('Changing the way we use technology')}
-- 🌱 let learning = {'I’m currently learning': true, 'School' : 'University of Colorado Boulder', 'Degrees: ['Computer Science', 'Psychology']} 
+- 🌱 let learning = {'I’m currently learning': flase, 'School' : 'University of Colorado Boulder', 'Degrees: ['Computer Science', 'Psychology']} 
 - 💞️ console.log(I’m looking to collaborate on Python, C++, C or Java projects)
 - 📫 if (needsContact) {return(cesserjackson@gmail.com)}}
 
