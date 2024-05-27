@@ -28,7 +28,8 @@ I'm passionate about creating technology that helps individuals grow and achieve
 Education
 
 - University of Colorado Boulder
-  -Degrees: Computer Science, Psychology
+
+  - Degrees: Computer Science, Psychology
 
 ## Skills
 
