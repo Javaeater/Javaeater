@@ -45,7 +45,7 @@ Education
 I'm always looking for exciting projects to work on, especially those involving Python, C++, C, or Java. If you have an opportunity or idea, feel free to reach out!
 Contact
 
-    📧 Email: cesserjackson@gmail.com
+- 📧 Email: cesserjackson@gmail.com
 
 
 
