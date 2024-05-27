@@ -33,14 +33,14 @@ Education
 
 ## Skills
 
-    Programming Languages: Python, C++, C, Java
-    Interests: Technology innovation, software development, mental and emotional well-being through tech
+- Programming Languages: Python, C++, C, Java
+- Interests: Technology innovation, software development, mental and emotional well-being through tech
 
 ## Projects
 
-    Check out my latest project: Figi Friend
+- Check out my latest project: Figi Friend
 
-Let's Collaborate!
+## Let's Collaborate!
 
 I'm always looking for exciting projects to work on, especially those involving Python, C++, C, or Java. If you have an opportunity or idea, feel free to reach out!
 Contact
