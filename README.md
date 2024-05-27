@@ -38,7 +38,7 @@ Education
 
 ## Projects
 
-- Check out my latest project: Figi Friend
+- Check out my latest project: [Figi Friend](https://figi-friend-react.onrender.com/)
 
 ## Let's Collaborate!
 
