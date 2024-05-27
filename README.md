@@ -6,21 +6,21 @@
             return "Creating the Technology that Fuels new growth in individuals";
         }
 
-    // Education
-    let learning = {
-        'Graduated': true,
-        'School': 'University of Colorado Boulder',
-        'Degrees': ['Computer Science', 'Psychology']
-    };
-
-    // Collaboration
-    console.log("I’m looking to collaborate on Python, C++, C, or Java projects");
-
-    // Contact
-    if (needsContact) {
-        return "cesserjackson@gmail.com";
+        // Education
+        let learning = {
+            'Graduated': true,
+            'School': 'University of Colorado Boulder',
+            'Degrees': ['Computer Science', 'Psychology']
+        };
+    
+        // Collaboration
+        console.log("I’m looking to collaborate on Python, C++, C, or Java projects");
+    
+        // Contact
+        if (needsContact) {
+            return "cesserjackson@gmail.com";
+        }
     }
-}
 
 
 
