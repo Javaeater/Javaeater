@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Javaeater!
 
-Class Javaeater {
-    // Interests
-    ImInterestedIn() {
-        return "Creating the Technology that Fuels new growth in individuals";
-    }
+    Class Javaeater {
+        // Interests
+        ImInterestedIn() {
+            return "Creating the Technology that Fuels new growth in individuals";
+        }
 
     // Education
     let learning = {
