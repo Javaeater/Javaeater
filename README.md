@@ -39,6 +39,7 @@ Education
 ## Projects
 
 - Check out my latest project: [Figi Friend](https://figi-friend-react.onrender.com/)
+- Developing a new way for people in the Cannabis community to learn and share experiances (https://www.wiseterps.com/register-interest)
 
 ## Let's Collaborate!
 
