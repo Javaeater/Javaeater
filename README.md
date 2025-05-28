@@ -1,27 +1,5 @@
 # 👋 Hi there, I'm Javaeater!
 
-    Class Javaeater {
-        // Interests
-        ImInterestedIn() {
-            return "Creating the Technology that Fuels new growth in individuals";
-        }
-
-        // Education
-        let learning = {
-            'Graduated': true,
-            'School': 'University of Colorado Boulder',
-            'Degrees': ['Computer Science', 'Psychology']
-        };
-    
-        // Collaboration
-        console.log("I’m looking to collaborate on Python, Javascript, TypeScript, or Java projects");
-    
-        // Contact
-        if (needsContact) {
-            return "cesserjackson@gmail.com";
-        }
-    }
-
 ## About Me
 
 I'm passionate about creating technology that helps individuals grow and achieve their potential. With a strong foundation in both Computer Science and Psychology, I bring a unique perspective to every project I work on.
