@@ -2,26 +2,20 @@
 
 ## About Me
 
-I'm passionate about creating technology that helps individuals grow and achieve their potential. With a strong foundation in both Computer Science and Psychology, I bring a unique perspective to every project I work on.
-Education
-
-- University of Colorado Boulder
-
-  - Degrees: Computer Science, Psychology
+I am a software engineer with over 5 years of experiance in SDET, AI and Full-stack development. I have worked at large comapnies such as NBCUniversal and Roku as well as smaller companies like Humane Inc. I am looking for work as a Python SDET or AI Software Engineer in the San Francisco Bay Area. 
 
 ## Skills
 
-- Programming Languages: Python, C++, C, Java
-- Interests: Technology innovation, software development, mental and emotional well-being through tech
+- Programming Languages: Python, Javascript, TypeScript, React
 
 ## Projects
 
-- Check out my latest project: [Figi Friend](https://figi-friend-react.onrender.com/)
-- Developing a new way for people in the Cannabis community to learn and share experiances (https://www.wiseterps.com/register-interest)
+- Check out my latest project: [LunaThink](www.lunahthink.com)
+- Developing a new way for people in the Cannabis community to learn and share experiances [WiseTerps](https://www.wiseterps.com/)
 
 ## Let's Collaborate!
 
-I'm always looking for exciting projects to work on, especially those involving Python, C++, C, or Java. If you have an opportunity or idea, feel free to reach out!
+I'm always looking for exciting projects to work on. If you have an opportunity or idea, feel free to reach out!
 Contact
 
 - 📧 Email: cesserjackson@gmail.com
