@@ -10,7 +10,7 @@ I am a software engineer with over 5 years of experiance in SDET, AI and Full-st
 
 ## Projects
 
-- Check out my latest project: [LunaThink](www.lunahthink.com)
+- Check out my latest project: [LunaThink](www.lunathink.com)
 - Developing a new way for people in the Cannabis community to learn and share experiances [WiseTerps](https://www.wiseterps.com/)
 
 ## Let's Collaborate!
