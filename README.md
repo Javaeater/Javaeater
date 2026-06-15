@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a software engineer with over 5 years of experiance in SDET, AI and Full-stack development. I have worked at large comapnies such as NBCUniversal and Roku as well as smaller companies like Humane Inc. I am looking for work as a Python SDET or AI Software Engineer in the San Francisco Bay Area. 
+I am a software engineer with over 5 years of experiance in SDET, AI and Full-stack development. I have worked at large comapnies such as NBCUniversal and Roku as well as smaller companies like Humane Inc. I am looking for work as a Python SDET or AI Software Engineer in the Denver or San Francisco Bay Area. 
 
 ## Skills
 
